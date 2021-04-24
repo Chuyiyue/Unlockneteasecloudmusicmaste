@@ -58,7 +58,7 @@
 
 以 `管理员身份` 打开 `Powershell`，Windows 10 快捷入口：`Win + X` - `Windows Powershell(管理员)(A)`
 
-[![04GAVP.png](https://s1.ax1x.com/2020/10/14/04GAVP.png)
+![04GAVP.png](https://s1.ax1x.com/2020/10/14/04GAVP.png)
 
 复制以下代码，右键粘贴到命令行回车，打开安装菜单。
 
@@ -184,7 +184,7 @@ iOS端的使用也同样必须要连接WiFi，iOS 设备还需安装 CA 证书�
 
 # <span style="color:orangered;font-weight:bold;">不限端浏览器听音乐</span>
 
-如果实在嫌麻烦，上面的教程都不用看，直接打开浏览器输入网址http://music.shadow-forum.com/，直接上车，已解锁无版权歌曲，支持下载
+如果实在嫌麻烦，上面的教程都不用看，直接打开浏览器输入网址http://music.shadow-forum.com/ ，直接上车，已解锁无版权歌曲，支持下载
 
 下面放一张截图
 
@@ -234,7 +234,7 @@ https://github.com/ndroi/easy163
 
 # 本教程仅用于学习交流，如有侵权请联系本人删除，禁止他人用于非法用途，转载请注明出处，谢谢！！！
 
-**注：本人GitHub项目地址**：https://github.com/meng-chuan/Unlock-netease-cloud-music
+**注：**本人GitHub项目地址：https://github.com/meng-chuan/Unlock-netease-cloud-music
 
 **码字不易，欢迎各位金主大大打赏**
 
